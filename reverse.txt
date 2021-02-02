@@ -1,0 +1,88 @@
+Log Types
+Nodes
+EPS
+GB/day
+Windows Servers - HIGH EPS (Event Log)
+1
+7.00
+0.39
+Windows Servers - MED EPS (Event Log)
+1
+3.00
+0.17
+Windows Servers - LOW EPS (Event Log)
+1
+1.00
+0.06
+Windows Desktops (Laptops / tablets / POS)
+1
+0.00
+0.00
+Network Switches
+1
+2.00
+0.02
+Network Routers
+1
+1.00
+0.02
+Network Firewalls (Layer 7 Internal)
+1
+240.00
+9.66
+Network VPN / SSL VPN
+1
+2.00
+0.05
+Network Flows (NetFlow/S-Flow)
+1
+30.00
+0.97
+Other Network Devices
+1
+10.00
+0.20
+Linux / Unix Servers
+1
+3.00
+0.07
+Network IPS/IDS
+1
+100.00
+2.41
+Network Firewalls (Layer 7 - DMZ)
+1
+100.00
+4.02
+Network Wireless LAN
+1
+5.00
+0.06
+Network Load-Balancers
+1
+5.00
+0.06
+Network Firewalls (DMZ)
+1
+50.00
+1.01
+Other Security Devices
+1
+5.00
+0.30
+Network Web Proxy
+1
+20.00
+1.05
+Network Firewalls (Internal)
+1
+240.00
+4.83
+HyperVisor (ESXi, Hyper-V etc)
+1
+15.00
+1.21
+Total
+20
+839
+26.55 GB
